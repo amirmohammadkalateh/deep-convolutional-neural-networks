@@ -1,4 +1,3 @@
-# deep-convolutional-neural-networks
 ```
 # Deep Convolutional Neural Networks (Deep CNNs)
 
@@ -88,3 +87,4 @@ This is a high-level overview of Deep CNNs. To delve deeper, you can explore res
 * Advanced concepts like transfer learning, fine-tuning, and network visualization.
 
 By understanding these fundamental concepts, you can better appreciate the power and versatility of Deep Convolutional Neural Networks in tackling a wide range of complex problems.
+```
